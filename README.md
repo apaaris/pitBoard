@@ -1,5 +1,6 @@
 # pitBoard
 F1 Digital Pit board for the Alpine F1 Race Team
+
 Drafted over lunch because of time issues
 
 ## Why?
