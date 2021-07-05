@@ -5,6 +5,7 @@ Drafted over lunch because of time issues
 
 ## Why?
 This Reddit thread started everything ([Link](https://www.reddit.com/r/F1Technical/comments/o7hek3/pit_board_redesign_project/))
+![Reddit post](reddit.png)
 
 ## Requirements:
 * Low Weight (<= 7kg)
