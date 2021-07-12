@@ -8,10 +8,10 @@ This Reddit thread started everything ([Link](https://www.reddit.com/r/F1Technic
 ![Reddit post](reddit.png)
 
 ## Requirements:
-* Low Weight (<= 7kg)
-* Clear and legible text
-* Message customisation via keyboard
-* Battery powered with a life of 8hrs
+* Low Weight (<= 7kg)  <div align="center">![status](https://img.shields.io/badge/Status-check-success)</div>
+* Clear and legible text  <div align="center">![status](https://img.shields.io/badge/Status-check-success)</div>
+* Message customisation via keyboard  <div align="center">![status](https://img.shields.io/badge/Status-check-success)</div>
+* Battery powered with a life of 8hrs  <div align="center">![status](https://img.shields.io/badge/Status-check-success)</div>
 
 ## How it looks like:
 ![Tri](Pics/Tri.png)
